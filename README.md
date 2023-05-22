@@ -1,24 +1,16 @@
-Contribution: 2017-11-17 20:00
+<div align="center">
+  
+# Employees-Management Application
 
-Contribution: 2017-11-22 20:00
+- Technology Used : Laravel-8, Bootstrap-4, Vue.js, Moment.js, Vue Datepicker.
+#
+</div>
 
-Contribution: 2017-11-23 20:00
+## Features & Requirements :
 
-Contribution: 2017-11-28 20:00
-
-Contribution: 2017-11-28 20:01
-
-Contribution: 2017-12-01 20:00
-
-Contribution: 2017-12-06 20:00
-
-Contribution: 2017-12-06 20:01
-
-Contribution: 2017-12-11 20:00
-
-Contribution: 2017-12-13 20:00
-
-Contribution: 2017-12-13 20:01
-
-Contribution: 2017-12-13 20:02
-
+<p align="center"><img src="https://github.com/Shahed-Chy-Suzan/Employees-Management/blob/master/z_others/employees-management-requirements-images/employees-management-requirement-1.png?raw=true"></p>
+<p align="center"><img src="https://github.com/Shahed-Chy-Suzan/Employees-Management/blob/master/z_others/employees-management-requirements-images/employees-management-requirement-2.png?raw=true"></p>
+<p align="center"><img src="https://github.com/Shahed-Chy-Suzan/Employees-Management/blob/master/z_others/employees-management-requirements-images/employees-management-requirement-3.png?raw=true"></p>
+<p align="center"><img src="https://github.com/Shahed-Chy-Suzan/Employees-Management/blob/master/z_others/employees-management-requirements-images/employees-management-requirement-4.png?raw=true"></p>
+<p align="center"><img src="https://github.com/Shahed-Chy-Suzan/Employees-Management/blob/master/z_others/employees-management-requirements-images/employees-management-requirement-5.png?raw=true"></p>
+<p align="center"><img src="https://github.com/Shahed-Chy-Suzan/Employees-Management/blob/master/z_others/employees-management-requirements-images/employees-management-requirement-6.png?raw=true"></p>
